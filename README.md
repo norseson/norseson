@@ -6,25 +6,16 @@
 ## 𒆙 About Me <img src="https://cdn-icons-png.flaticon.com/512/197/197601.png" width="17" />/<img src="https://cdn-icons-png.flaticon.com/512/197/197565.png" width="17" />
 
 
+### Hi, I'm North 👋
 
-<h3>My passion lies in taking systems—whether they're complex APIs or sprawling urban infrastructure—and finding the cleanest, most efficient way to solve their most persistent bugs. If you're looking for someone who treats a difficult project like a high-score challenge—and wins—you've found your collaborator. </h3>
+I'm an AI research engineer specializing in large language models (LLMs), deep learning, and open-source development. 
 
-<br>
+My work focuses on AI research, building practical tools, and sharing knowledge through open-source contributions.  
 
-_I don't just build; I optimize. I don't just fix; I future-proof._
-
-## ⚡ What I bring to the Terminal:
-
-- 🔭 Architectural Clarity: Designing systems that are scalable and maintainable. No more technical debt.
-- 🧮 Creative Problem Solving: If a solution exists, I'll find it. If it doesn't, I'll code it.
-- 👯 Decentralize Complexity: Breaking large problems into manageable, elegant microservices.
-- 💬 Boost Performance: Making slow, clunky processes run with cyberpunk efficiency.
-
-</br>
-
+##
 <h2>𒆙 Tech Stack</h2>
 
-<strong>𒆙 Full Stack Developer</strong>
+<strong>𒆙 Full Stack Engineer</strong>
 
   <div>
     <strong>▪︎ Frontend:</strong><br>
@@ -48,21 +39,6 @@ _I don't just build; I optimize. I don't just fix; I future-proof._
   </div>
   </br>
 
-<strong> 𒆙 Data Analyst</strong>
-
-  <div>
-    <strong>▪︎ Languages ​​and Libraries:</strong><br>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=python,scala,d3,grafana" />
-    </a>
-  </div>
-
-  <div>
-    <strong>▪︎ Databases and Cloud:</strong><br>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,dynamodb,gcp,azure" />
-    </a>
-  </div>
 
 ## 𒆙 My Stats
 
@@ -85,9 +61,7 @@ _I don't just build; I optimize. I don't just fix; I future-proof._
 </div>
 
 <div align="center">
-  <p><strong>"Let's build something that won't crash at 3 AM.
-
-"</strong></p>
+  <p><strong>"Let's build something together</strong></p>
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
