@@ -1,10 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=3500&pause=1500&color=20C20E&center=true&vCenter=true&width=700&lines=%3E_WELCOME_MY_FRIEND...;%3E_MERGE_THE_CHANGES!;%3E_REFACTORING_REALITY;)](https://git.io/typing-svg)
 
 
-
-## 𒆙 About Me <img src="https://cdn-icons-png.flaticon.com/512/197/197601.png" width="17" />/<img src="https://cdn-icons-png.flaticon.com/512/197/197565.png" width="17" />
-
-
 ### Hi, I'm North 👋
 
 I'm an AI research engineer specializing in large language models (LLMs), deep learning, and open-source development. 
