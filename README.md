@@ -1,19 +1,15 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=3500&pause=1500&color=20C20E&center=true&vCenter=true&width=700&lines=%3E_WELCOME_MY_FRIEND...;%3E_MERGE_THE_CHANGES!;%3E_REFACTORING_REALITY;)](https://git.io/typing-svg)
 
-### My name is `norseson`, welcome to my `readme.md`!
-
 <h2 align="center"> 👾 Full Stack Engineer 👾 </h2>
 
 
 ## 𒆙 About Me <img src="https://cdn-icons-png.flaticon.com/512/197/197601.png" width="17" />/<img src="https://cdn-icons-png.flaticon.com/512/197/197565.png" width="17" />
 
-> **We don't just fix the code.** _We rewrite the world...._
+
 
 <h3>My passion lies in taking systems—whether they're complex APIs or sprawling urban infrastructure—and finding the cleanest, most efficient way to solve their most persistent bugs. If you're looking for someone who treats a difficult project like a high-score challenge—and wins—you've found your collaborator. </h3>
 
 <br>
-
-<h4>I believe that the spirit of the edgerunner belongs in the development pipeline: constantly testing limits, finding the hidden path, and building the things the megacorps (and frankly, most teams) can’t. </h4>
 
 _I don't just build; I optimize. I don't just fix; I future-proof._
 
