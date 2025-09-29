@@ -6,8 +6,6 @@ My work focuses on AI research, building practical tools, and sharing knowledge 
 
 ##
 
-## 𒆙 My Stats
-
 <div align="center">
 
 | Statistics                                                                                       | Repositories by Language                                                                                      |
