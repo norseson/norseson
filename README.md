@@ -1,6 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=3500&pause=1500&color=20C20E&center=true&vCenter=true&width=700&lines=%3E_WELCOME_MY_FRIEND...;%3E_MERGE_THE_CHANGES!;%3E_REFACTORING_REALITY;)](https://git.io/typing-svg)
-
-
 ### Hi, I'm North 👋
 
 I'm an AI research engineer specializing in large language models (LLMs), deep learning, and open-source development. 
@@ -8,32 +5,6 @@ I'm an AI research engineer specializing in large language models (LLMs), deep l
 My work focuses on AI research, building practical tools, and sharing knowledge through open-source contributions.  
 
 ##
-<h2>𒆙 Tech Stack</h2>
-
-<strong>𒆙 Full Stack Engineer</strong>
-
-  <div>
-    <strong>▪︎ Frontend:</strong><br>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react,nextjs,vue,svelte" />
-    </a>
-  </div>
-
-  <div>
-    <strong>▪︎ Backend & Databases:</strong><br>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nodejs,mysql,postgresql,mongodb,firebase,supabase" />
-    </a>
-  </div>
-
-  <div>
-    <strong>▪︎ DevOps:</strong><br>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode,vite,netlify,wordpress,figma,md" />
-    </a>
-  </div>
-  </br>
-
 
 ## 𒆙 My Stats
 
