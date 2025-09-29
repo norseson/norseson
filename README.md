@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=3500&pause=1500&color=20C20E&center=true&vCenter=true&width=700&lines=%3E_WELCOME_MY_FRIEND...;%3E_MERGE_THE_CHANGES!;%3E_REFACTORING_REALITY;)](https://git.io/typing-svg)
 
-<h2 align="center"> 👾 Full Stack Engineer 👾 </h2>
 
 
 ## 𒆙 About Me <img src="https://cdn-icons-png.flaticon.com/512/197/197601.png" width="17" />/<img src="https://cdn-icons-png.flaticon.com/512/197/197565.png" width="17" />
@@ -32,7 +31,7 @@ My work focuses on AI research, building practical tools, and sharing knowledge 
   </div>
 
   <div>
-    <strong>▪︎ DevOps & Ferramentas:</strong><br>
+    <strong>▪︎ DevOps:</strong><br>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode,vite,netlify,wordpress,figma,md" />
     </a>
