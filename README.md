@@ -24,8 +24,6 @@ My work focuses on AI research, building practical tools, and sharing knowledge 
 
 </div>
 
-<div align="center">
-  <p><strong>"Open To New Opportunities"</strong></p>
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
