@@ -9,7 +9,7 @@ on:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
     name: Generate GitHub Profile Summary Cards
     
     # Required to allow the Action to commit files back to the repository
