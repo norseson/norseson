@@ -8,9 +8,6 @@ My work focuses on AI research, building practical tools, and sharing knowledge 
 
 <div align="center">
 
-| Statistics | Repositories by Language |
-| :--- | :--- |
-| [![](profile-summary-card-output/aura/0-stats.svg)](...) | [![](profile-summary-card-output/aura/1-repos-per-language.svg)](...) |
 
 Productive Hours | Most Used Language
 | :--- | :--- |
