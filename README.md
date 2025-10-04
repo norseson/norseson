@@ -8,19 +8,19 @@ My work focuses on AI research, building practical tools, and sharing knowledge 
 
 <div align="center">
 
-| Statistics                                                                                       | Repositories by Language                                                                                      |
-| ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------- |
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=norseson&theme=aura) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=norseson&theme=aura) |
+| Statistics | Repositories by Language |
+| :--- | :--- |
+| [![](profile-summary-card-output/aura/0-stats.svg)](...) | [![](profile-summary-card-output/aura/1-repos-per-language.svg)](...) |
 
-| Productive Hours                                                                                                       | Most Used Language                                                                                              |
-| ---------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=norseson&theme=aura&utcOffset=8) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=norseson&theme=aura) |
+Productive Hours | Most Used Language
+| :--- | :--- |
+| [![](profile-summary-card-output/aura/4-productive-time.svg)](...) | [![](profile-summary-card-output/aura/2-most-commit-language.svg)](...) |
 
 </div>
 
 <div align="center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=norseson&theme=aura)
+![](profile-summary-card-output/aura/profile-details.svg)
 
 </div>
 
