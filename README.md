@@ -1,8 +1,6 @@
 ### Hi, I'm North 👋
 
-I'm an AI research engineer specializing in large language models (LLMs), deep learning, and open-source development. 
-
-My work focuses on AI research, building practical tools, and sharing knowledge through open-source contributions.  
+I'm just a guy trying my best to take care of my family and those I love  
 
 ##
 
