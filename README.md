@@ -1,7 +1,5 @@
 ### Hi, I'm North 👋
 
-I'm just a guy trying my best to take care of my family and those I love  
-
 ##
 
 <div align="center">
