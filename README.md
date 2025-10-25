@@ -64,15 +64,6 @@ Let's build something exceptional together. Get in touch to discuss your project
 
 <div align="center">
 
-
-Productive Hours | Most Used Language
-| :--- | :--- |
-| [![](profile-summary-card-output/aura/4-productive-time.svg)](...) | [![](profile-summary-card-output/aura/2-most-commit-language.svg)](...) |
-
-</div>
-
-<div align="center">
-
 ![](profile-summary-card-output/aura/profile-details.svg)
 
 </div>
