@@ -21,7 +21,7 @@ We offer a comprehensive suite of software development services to meet your bus
 We're always open to discussing new projects, technical challenges, or collaboration opportunities.
 
 * **Website:** [norseson.com](https://norseson.com)
-* **Email:** [norseson@outlook.com](mailto:norseson@outlook.com)
+* **Email:** [github@norseson.com](mailto:github@norseson.com)
 
 
 ##
