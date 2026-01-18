@@ -1,8 +1,8 @@
-# ⚡ THE ENFORCER | High-Performance Engineering
+# ⚡ NORSESON
 
 > **"Scalable solutions, zero downtime, no witnesses."**
 
-I build the digital infrastructure that keeps the big players in the game. Specializing in high-caliber enterprise platforms and remote engineering services that don't fold under pressure. When the stakes are high, I'm the one you call to handle the heavy lifting.
+When the stakes are high, I'm the one you call.
 
 ---
 
